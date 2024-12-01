@@ -1,0 +1,24 @@
+# ninja log v6
+113	1684	7547256692539866	src/CMakeFiles/RetoTesting_lib.dir/utilities.cpp.obj	379b1d012de8e515
+12	1704	7547256691528685	src/CMakeFiles/RetoTesting_lib.dir/main.cpp.obj	954430723efd0b53
+3	1702	7547256691439254	src/CMakeFiles/RetoTesting_lib.dir/algorithms.cpp.obj	8ca8a28a4f3e33a2
+8	1704	7547256691488784	src/CMakeFiles/RetoTesting_lib.dir/graph.cpp.obj	1c9a2e949c19e58c
+22	1215	7547256927020887	src/CMakeFiles/RetoTesting_run.dir/main.cpp.obj	f95c458af6cd945b
+26	1251	7547256927050815	src/CMakeFiles/RetoTesting_run.dir/utilities.cpp.obj	ccfce17d15cbdd4b
+1705	2140	7547256708453388	src/libRetoTesting_lib.a	48ace42f9fac6960
+13	821	7547256926931123	src/CMakeFiles/RetoTesting_run.dir/algorithms.cpp.obj	54fa8d11e56c0513
+18	1362	7547256926980998	src/CMakeFiles/RetoTesting_run.dir/graph.cpp.obj	76f713e5639e03bd
+1362	2896	7547256940420225	src/RetoTesting_run.exe	15f459b8b375573d
+10840	15271	7547259926965194	lib/libgtest.a	380b7f7097195bb2
+17	2250	7547259818731564	tst/CMakeFiles/RetoTesting_tst.dir/main.cpp.obj	9632b50d1b72aa42
+17	1777	7547263403910092	tst/CMakeFiles/RetoTesting_tst.dir/utilities_test.cpp.obj	4637bb54d268171
+10	10838	7547259818671698	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	3b59edb730b55050
+1778	6877	7547263421520253	tst/RetoTesting_tst.exe	9bb899ee1acb5c99
+26	960	7547264412143356	src/CMakeFiles/RetoTesting_lib.dir/utilities.cpp.obj	379b1d012de8e515
+961	1512	7547264421498341	src/libRetoTesting_lib.a	48ace42f9fac6960
+32	1944	7547264412203193	tst/CMakeFiles/RetoTesting_tst.dir/utilities_test.cpp.obj	4637bb54d268171
+1945	6999	7547264431336726	tst/RetoTesting_tst.exe	9bb899ee1acb5c99
+27	2018	7547265499001647	tst/CMakeFiles/RetoTesting_tst.dir/utilities_test.cpp.obj	4637bb54d268171
+2019	7094	7547265518914683	tst/RetoTesting_tst.exe	9bb899ee1acb5c99
+24	1982	7547266015703578	tst/CMakeFiles/RetoTesting_tst.dir/utilities_test.cpp.obj	4637bb54d268171
+1983	7138	7547266035295444	tst/RetoTesting_tst.exe	9bb899ee1acb5c99
